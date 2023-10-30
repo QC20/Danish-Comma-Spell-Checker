@@ -75,7 +75,7 @@ comma_correction_functions = [
     tilføj_komma_i_stedordssammenligninger,]
 
 # Example text with potential comma errors
-text = "de har noget filt men det virker ikke som det skal. Jeg er rigtig rigtig glad for store huse med lave tage men ikke med for store mursten. Hvorfor spiser jeg aldrig med munden åben noget oftere end jeg gør ærlig talt."
+text = "Dansk eksempel tekst."
 
 # Apply each correction function to the text
 for correction_function in comma_correction_functions:
